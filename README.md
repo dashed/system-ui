@@ -1,6 +1,8 @@
 system-ui [![Build Status](https://travis-ci.org/dashed/system-ui.svg)](https://travis-ci.org/dashed/system-ui) [![npm version](https://img.shields.io/npm/v/system-ui.svg?style=flat)](https://www.npmjs.com/package/system-ui)
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dashed/system-ui.svg)](https://greenkeeper.io/)
+
 > Fallbacks for the W3C CSS generic [`system-ui`](https://www.w3.org/TR/css-fonts-4/#system-ui-def) font-family.
 
 ## Install
