@@ -19,6 +19,8 @@ $ npm install --save system-ui
 import system_ui from "system-ui";
 import { injectGlobal } from "styled-components";
 
+// system_ui == "system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue"
+
 injectGlobal`
   body {
     font-family: ${system_ui}, sans-serif;
