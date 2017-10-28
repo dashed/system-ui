@@ -3,6 +3,21 @@
   "version": "1.0.0",
   "description": "Fallbacks for the W3C CSS generic system-ui font-family.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Alberto Leal",
+    "email": "mailforalberto@gmail.com",
+    "url": "github.com/dashed"
+  },
+  "keywords": [
+    "system-ui",
+    "fonts",
+    "font",
+    "css",
+    "css3"
+  ],
   "license": "MIT",
   "scripts": {
     "test": "true",
