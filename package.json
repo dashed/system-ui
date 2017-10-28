@@ -1,0 +1,15 @@
+{
+  "name": "system-ui",
+  "version": "1.0.0",
+  "description": "Fallbacks for the W3C CSS generic system-ui font-family.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "true",
+    "build": "node generate.js > index.js",
+    "pretty": "prettier --write --tab-width 4 '*.js'"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.4"
+  }
+}
