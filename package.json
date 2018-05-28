@@ -25,6 +25,6 @@
     "pretty": "prettier --write --tab-width 4 '*.js'"
   },
   "devDependencies": {
-    "prettier": "^1.7.4"
+    "prettier": "^1.13.0"
   }
 }
