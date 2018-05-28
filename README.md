@@ -2,6 +2,8 @@ system-ui [![Build Status](https://travis-ci.org/dashed/system-ui.svg)](https://
 =========
 
 > Fallbacks for the W3C CSS generic [`system-ui`](https://www.w3.org/TR/css-fonts-4/#system-ui-def) font-family.
+>
+> Adapted from: https://github.com/JLHwung/postcss-font-family-system-ui
 
 ## Install
 
