@@ -7,7 +7,6 @@ const list = [
     "Oxygen",
     "Ubuntu",
     "Cantarell",
-    "Fira Sans",
     "Droid Sans",
     "Helvetica Neue"
 ];
